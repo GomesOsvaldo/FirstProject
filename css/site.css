@@ -5,7 +5,7 @@ html {
 }
 
 #hero {
-  height: 100vh;
+  min-height: 100vh;
   background: #141e30;
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #243b55, #141e30);
